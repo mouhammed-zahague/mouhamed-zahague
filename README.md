@@ -1,2 +1,2 @@
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
-![custom badge](https://img.shields.io/badge/mouhamed-zahague-brightgreen?plastic&logo=youtube)
+![custom badge](https://img.shields.io/badge/mouhamed-zahague-brightgreen?for-the-badge&logo=youtube)
