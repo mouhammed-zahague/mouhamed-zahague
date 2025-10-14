@@ -11,7 +11,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/mouh_dz-grey?style=flat&logo=telegram)](https://t.me/mouh19999) <br>
+[![telegram badge](https://img.shields.io/badge/Mouh_Dz-grey?style=flat&logo=telegram)](https://t.me/mouh19999) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mouhammed-zahague)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahague-mohamed-63a58a353/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/x._.mouhamed._.zahague._) <br>
