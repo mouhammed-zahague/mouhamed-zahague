@@ -14,7 +14,6 @@
 [![telegram badge](https://img.shields.io/badge/Mouh_Dz-grey?style=flat&logo=telegram)](https://t.me/mouh19999) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mouhammed-zahague)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahague-mohamed-63a58a353/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/x._.mouhamed._.zahague._) <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.zahague@hns-re2sd.dz)
 </div>
 
