@@ -11,7 +11,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Mouh_Dz-grey?style=flat&logo=telegram)](https://t.me/mouh11111) <br>
+[![telegram badge](https://img.shields.io/badge/Mouhamed-grey?style=flat&logo=telegram)](https://t.me/mouh11111) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mouhammed-zahague)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahague-mohamed-63a58a353/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.zahague@hns-re2sd.dz)
@@ -34,18 +34,7 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 
 
-```dart
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "c" },
-    "Database" : {"Oracle"},
-    "Editors" : { "Vscode", "pycharme"},
-    "Platforms" : { "Linux", "Windows" },
-  };
-}
-```
 
 <div align="center" width="50">
 
